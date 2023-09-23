@@ -2,30 +2,30 @@
 
 Submitted by: **Dang Nguyen Nguyen**
 
-About this web app: **App description here**
+About this web app: **Want to show your favorite Car?? Here is the app for you**
 
-Time spent: **X** hours
+Time spent: **5** hours
 
 ## Required Features
 
 The following **required** functionality is completed:
 
 <!-- Make sure to check off completed functionality below -->
-- [ ] **The web app uses only HTML, CSS, and JavaScript without a frontend framework**
-- [ ] **The web app displays a title**
-- [ ] **The web app displays at least five list items, each with at least three attributes (such as title, text, and image url)**
-- [ ] **The user can click on each item in the list to see a detailed view of it, including all database fields**
-  - [ ] *Note: When showing this feature in the video walkthrough, please show the unique URL for each detailed view. We will not be able to give points if we cannot see the implementation* 
-- [ ] **The web app serves an appropriate 404 page when no matching route is defined**
-- [ ] **The web app is appropriately styled using Picocss**
+- [X] **The web app uses only HTML, CSS, and JavaScript without a frontend framework**
+- [X] **The web app displays a title**
+- [X] **The web app displays at least five list items, each with at least three attributes (such as title, text, and image url)**
+- [X] **The user can click on each item in the list to see a detailed view of it, including all database fields**
+  - [X] *Note: When showing this feature in the video walkthrough, please show the unique URL for each detailed view. We will not be able to give points if we cannot see the implementation* 
+- [X] **The web app serves an appropriate 404 page when no matching route is defined**
+- [X] **The web app is appropriately styled using Picocss**
 
 The following **optional** features are implemented:
 
-- [ ] The web app displays items in a unique format, such as cards rather than lists
+- [X] The web app displays items in a unique format, such as cards rather than lists
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you added to improve the site's functionality!
+- [X] List anything else that you added to improve the site's functionality!
 
 ## Video Walkthrough
 
@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/UgA3ngO.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  Add GIF tool here
@@ -44,7 +44,7 @@ GIF created with ...  Add GIF tool here
 
 ## Notes
 
-Describe any challenges encountered while building the app or any additional context you'd like to add.
+Working with vanilla javascript is very challenging
 
 ## License
 
